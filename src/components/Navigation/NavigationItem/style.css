@@ -1,0 +1,7 @@
+.nav-item {
+  svg {
+    transition: all 500ms;
+    width: 20px;
+    height: 20px;
+  }
+}
